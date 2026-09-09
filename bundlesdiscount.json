@@ -1,0 +1,230 @@
+{
+  "Currency": "CNY",
+  "DiscountDetail": [
+    {
+      "TimeSpan": 1,
+      "TimeUnit": "m",
+      "TotalCost": 35.0,
+      "RealTotalCost": 35.0,
+      "Discount": 100,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 100,
+        "FinalDiscount": 100,
+        "ActivityDiscount": null,
+        "DiscountType": null
+      }
+    },
+    {
+      "TimeSpan": 2,
+      "TimeUnit": "m",
+      "TotalCost": 70.0,
+      "RealTotalCost": 70.0,
+      "Discount": 100,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 100,
+        "FinalDiscount": 100,
+        "ActivityDiscount": null,
+        "DiscountType": null
+      }
+    },
+    {
+      "TimeSpan": 3,
+      "TimeUnit": "m",
+      "TotalCost": 105.0,
+      "RealTotalCost": 105.0,
+      "Discount": 100,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 100,
+        "FinalDiscount": 100,
+        "ActivityDiscount": null,
+        "DiscountType": null
+      }
+    },
+    {
+      "TimeSpan": 4,
+      "TimeUnit": "m",
+      "TotalCost": 140.0,
+      "RealTotalCost": 140.0,
+      "Discount": 100,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 100,
+        "FinalDiscount": 100,
+        "ActivityDiscount": null,
+        "DiscountType": null
+      }
+    },
+    {
+      "TimeSpan": 5,
+      "TimeUnit": "m",
+      "TotalCost": 175.0,
+      "RealTotalCost": 175.0,
+      "Discount": 100,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 100,
+        "FinalDiscount": 100,
+        "ActivityDiscount": null,
+        "DiscountType": null
+      }
+    },
+    {
+      "TimeSpan": 6,
+      "TimeUnit": "m",
+      "TotalCost": 210.0,
+      "RealTotalCost": 184.8,
+      "Discount": 88,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 88,
+        "FinalDiscount": 88,
+        "ActivityDiscount": 100,
+        "DiscountType": "common"
+      }
+    },
+    {
+      "TimeSpan": 7,
+      "TimeUnit": "m",
+      "TotalCost": 245.0,
+      "RealTotalCost": 215.6,
+      "Discount": 88,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 88,
+        "FinalDiscount": 88,
+        "ActivityDiscount": 100,
+        "DiscountType": "common"
+      }
+    },
+    {
+      "TimeSpan": 8,
+      "TimeUnit": "m",
+      "TotalCost": 280.0,
+      "RealTotalCost": 246.4,
+      "Discount": 88,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 88,
+        "FinalDiscount": 88,
+        "ActivityDiscount": 100,
+        "DiscountType": "common"
+      }
+    },
+    {
+      "TimeSpan": 9,
+      "TimeUnit": "m",
+      "TotalCost": 315.0,
+      "RealTotalCost": 277.2,
+      "Discount": 88,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 88,
+        "FinalDiscount": 88,
+        "ActivityDiscount": 100,
+        "DiscountType": "common"
+      }
+    },
+    {
+      "TimeSpan": 10,
+      "TimeUnit": "m",
+      "TotalCost": 350.0,
+      "RealTotalCost": 308.0,
+      "Discount": 88,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 88,
+        "FinalDiscount": 88,
+        "ActivityDiscount": 100,
+        "DiscountType": "common"
+      }
+    },
+    {
+      "TimeSpan": 11,
+      "TimeUnit": "m",
+      "TotalCost": 385.0,
+      "RealTotalCost": 338.8,
+      "Discount": 88,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 88,
+        "FinalDiscount": 88,
+        "ActivityDiscount": 100,
+        "DiscountType": "common"
+      }
+    },
+    {
+      "TimeSpan": 12,
+      "TimeUnit": "m",
+      "TotalCost": 420.0,
+      "RealTotalCost": 357.0,
+      "Discount": 85,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 85,
+        "FinalDiscount": 85,
+        "ActivityDiscount": 100,
+        "DiscountType": "common"
+      }
+    },
+    {
+      "TimeSpan": 24,
+      "TimeUnit": "m",
+      "TotalCost": 840.0,
+      "RealTotalCost": 714.0,
+      "Discount": 85,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 85,
+        "FinalDiscount": 85,
+        "ActivityDiscount": 100,
+        "DiscountType": "common"
+      }
+    },
+    {
+      "TimeSpan": 36,
+      "TimeUnit": "m",
+      "TotalCost": 1260.0,
+      "RealTotalCost": 1071.0,
+      "Discount": 85,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 85,
+        "FinalDiscount": 85,
+        "ActivityDiscount": 100,
+        "DiscountType": "common"
+      }
+    },
+    {
+      "TimeSpan": 48,
+      "TimeUnit": "m",
+      "TotalCost": 1680.0,
+      "RealTotalCost": 1428.0,
+      "Discount": 85,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 85,
+        "FinalDiscount": 85,
+        "ActivityDiscount": 100,
+        "DiscountType": "common"
+      }
+    },
+    {
+      "TimeSpan": 60,
+      "TimeUnit": "m",
+      "TotalCost": 2100.0,
+      "RealTotalCost": 1785.0,
+      "Discount": 85,
+      "PolicyDetail": {
+        "UserDiscount": 100,
+        "CommonDiscount": 85,
+        "FinalDiscount": 85,
+        "ActivityDiscount": 100,
+        "DiscountType": "common"
+      }
+    }
+  ],
+  "RequestId": "78cad991-a863-42dd-83e9-5edbb542aad4"
+}

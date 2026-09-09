@@ -1,0 +1,58 @@
+{
+  "TotalCount": 1,
+  "InstanceSet": [
+    {
+      "InstanceId": "lhins-qojobi8w",
+      "BundleId": "bundle_starter_mc_lg4_01",
+      "BlueprintId": "lhbp-3av50t80",
+      "CPU": 4,
+      "Memory": 4,
+      "InstanceName": "DeepSeek Harness-fcok",
+      "InstanceChargeType": "PREPAID",
+      "SystemDisk": {
+        "DiskType": "CLOUD_SSD",
+        "DiskSize": 60,
+        "DiskId": "lhdisk-50t6pgem"
+      },
+      "PrivateAddresses": [
+        "10.2.0.10"
+      ],
+      "PublicAddresses": [
+        "82.156.197.120"
+      ],
+      "InternetAccessible": {
+        "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+        "InternetMaxBandwidthOut": 5,
+        "PublicIpAssigned": true
+      },
+      "RenewFlag": "DISABLE_NOTIFY_AND_MANUAL_RENEW",
+      "LoginSettings": {
+        "KeyIds": []
+      },
+      "InstanceState": "RUNNING",
+      "Uuid": "e128a09c-c045-4167-9cbe-377881f9b76b",
+      "LatestOperation": "",
+      "LatestOperationState": "",
+      "LatestOperationRequestId": "",
+      "LatestOperationStartedTime": "2026-09-07T14:11:37Z",
+      "IsolatedTime": null,
+      "CreatedTime": "2026-09-07T14:12:39Z",
+      "ExpiredTime": "2026-10-07T14:12:39Z",
+      "PlatformType": "LINUX_UNIX",
+      "Platform": "UBUNTU",
+      "OsName": "Ubuntu Server 24.04 LTS 64bit",
+      "Zone": "ap-beijing-6",
+      "Tags": [],
+      "InstanceRestrictState": "NORMAL",
+      "SupportIpv6Detail": {
+        "IsSupport": false,
+        "Detail": "BLUEPRINT_NOT_SUPPORT",
+        "Message": "当前实例的镜像不支持IPv6。"
+      },
+      "PublicIpv6Addresses": [],
+      "InitInvocationId": "",
+      "InstanceViolationDetail": null
+    }
+  ],
+  "RequestId": "06d9e196-b551-4d0d-9b97-206ca09a863b"
+}

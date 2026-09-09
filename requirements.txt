@@ -1,0 +1,4 @@
+# Runtime dependencies for the experimental scripts in this repository.
+tencentcloud-sdk-python-common==3.1.169
+tencentcloud-sdk-python-lighthouse==3.1.151
+tencentcloud-sdk-python-tat==3.1.106

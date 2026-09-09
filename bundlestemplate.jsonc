@@ -1,0 +1,27 @@
+{
+  "BundleId": "bundle_starter_mc_med2_03",                       // 套餐唯一ID（API创建实例时必传）
+  "CPU": 2,                                                      // CPU核数
+  "Memory": 2,                                                   // 内存大小（GB）
+  "SystemDiskType": "CLOUD_SSD",                                 // 系统盘类型（目前均为SSD）
+  "SystemDiskSize": 40,                                          // 系统盘容量（GB）
+  "MonthlyTraffic": 100,                                         // 每月免费流量包（GB），0表示不包含
+  "SupportLinuxUnixPlatform": true,                              // 是否支持Linux/Unix系统
+  "SupportWindowsPlatform": true,                                // 是否支持Windows系统
+  "InternetMaxBandwidthOut": 2,                                  // 峰值出网带宽（Mbps）
+  "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",             // 网络计费模式（按流量后付费）
+  "BundleSalesState": "AVAILABLE",                               // 售卖状态（AVAILABLE=可购买，SOLD_OUT=售罄）
+  "BundleType": "STARTER_BUNDLE",                                // 套餐类型（STARTER_BUNDLE/RAZOR_SPEED_BUNDLE/GENERAL_BUNDLE）
+  "BundleTypeDescription": "入门型",                              // 套餐类型中文描述
+  "BundleDisplayLabel": "NORMAL",                                // 展示标签（NORMAL=普通，ACTIVITY=活动款）
+  "TrafficUnlimited": false,                                     // 是否无限流量（true则MonthlyTraffic为0）
+  "Price": {                                                     // 价格信息对象
+    "InstancePrice": {                                           // 实例价格详情
+      "OriginalBundlePrice": 35.0,                               // 套餐原价（元/月）
+      "OriginalPrice": 35.0,                                     // 原价（通常与上一项一致）
+      "Discount": 100,                                           // 折扣百分比（100=无折扣，80=八折）
+      "DiscountPrice": 35.0,                                     // 折后实际价格（元/月）
+      "Currency": "CNY",                                         // 货币单位（CNY=人民币）
+      "DetailPrices": null                                       // 详细价格阶梯（当前固定为null）
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "TotalCount": 48,                                 // 符合查询条件的镜像总数
+  "BlueprintSet": [                                 // 镜像列表数组
+    {
+      "BlueprintId": "lhbp-c6e7uu0g",               // 镜像唯一ID（创建实例时指定BlueprintId）
+      "DisplayTitle": "Hermes Agent",               // 镜像展示标题
+      "DisplayVersion": "v0.21.0 (v2026.8.31)",     // 镜像版本号
+      "Description": "Hermes Agent 是一款开源...",   // 镜像的详细描述信息
+      "OsName": "Ubuntu Server 24.04 LTS 64bit",    // 操作系统名称
+      "Platform": "UBUNTU",                         // 操作系统平台标识（如UBUNTU、CENTOS、TENCENTOS等）
+      "PlatformType": "LINUX_UNIX",                 // 平台类型：LINUX_UNIX 或 WINDOWS
+      "BlueprintType": "APP_OS",                    // 镜像类型：APP_OS（应用镜像）或 PURE_OS（纯系统镜像）
+      "ImageUrl": "https://...",                    // 镜像图标URL
+      "RequiredSystemDiskSize": 30,                 // 使用该镜像所需的最小系统盘容量（GB）
+      "BlueprintState": "NORMAL",                   // 镜像状态：NORMAL（正常）
+      "CreatedTime": "2026-09-04T14:32:58Z",        // 镜像创建时间（UTC时间）
+      "BlueprintName": "hermes_agent",              // 镜像内部名称（用于API查询）
+      "SupportAutomationTools": true,               // 是否支持自动化助手等工具
+      "RequiredMemorySize": 2,                      // 使用该镜像所需的最小内存（GB）
+      "ImageId": "",                                // 关联的自定义镜像ID（如果有），通常为空
+      "CommunityUrl": "https://hermes-agent.nousresearch.com/", // 开源社区或官网地址
+      "GuideUrl": "https://cloud.tencent.com/developer/article/2653159", // 使用指南链接（可能为空）
+      "SceneIdSet": [                               // 适用的场景ID列表（用于分类筛选）
+        "lhsc-h0ug8jtq",
+        "lhsc-qnuz61zs"
+      ],
+      "DockerVersion": null,                        // 若为Docker相关镜像则显示版本，否则为null
+      "BlueprintShared": false,                     // 是否为共享镜像（由他人分享）
+      "Tags": []                                    // 用户自定义标签列表
+    }
+  ],
+  "RequestId": "54477c31-074c-4ff8-9234-6de35e69dada" // 本次请求的唯一ID（用于排查问题）
+}

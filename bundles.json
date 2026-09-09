@@ -1,0 +1,546 @@
+{
+  "BundleSet": [
+    {
+      "BundleId": "bundle_starter_mc_med2_03",
+      "Memory": 2,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 40,
+      "MonthlyTraffic": 100,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 35.0,
+          "OriginalPrice": 35.0,
+          "Discount": 100,
+          "DiscountPrice": 35.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 2,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_starter_mc_med2_01",
+      "Memory": 2,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 40,
+      "MonthlyTraffic": 200,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 40.0,
+          "OriginalPrice": 40.0,
+          "Discount": 100,
+          "DiscountPrice": 40.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 3,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_rs_mc_med2_01",
+      "Memory": 2,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 40,
+      "MonthlyTraffic": 0,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 45.0,
+          "OriginalPrice": 45.0,
+          "Discount": 100,
+          "DiscountPrice": 45.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 200,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "RAZOR_SPEED_BUNDLE",
+      "BundleTypeDescription": "锐驰型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": true
+    },
+    {
+      "BundleId": "bundle_starter_mc_med2_02",
+      "Memory": 2,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 50,
+      "MonthlyTraffic": 300,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 48.0,
+          "OriginalPrice": 48.0,
+          "Discount": 100,
+          "DiscountPrice": 48.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 4,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_rs_mc_med2_02",
+      "Memory": 2,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 50,
+      "MonthlyTraffic": 0,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 50.0,
+          "OriginalPrice": 50.0,
+          "Discount": 100,
+          "DiscountPrice": 50.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 200,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "RAZOR_SPEED_BUNDLE",
+      "BundleTypeDescription": "锐驰型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": true
+    },
+    {
+      "BundleId": "bundle_starter_mc_med2_04",
+      "Memory": 2,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 50,
+      "MonthlyTraffic": 400,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 55.0,
+          "OriginalPrice": 55.0,
+          "Discount": 100,
+          "DiscountPrice": 55.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 5,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_starter_mc_lg4_01",
+      "Memory": 4,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 60,
+      "MonthlyTraffic": 500,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 65.0,
+          "OriginalPrice": 65.0,
+          "Discount": 100,
+          "DiscountPrice": 65.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 4,
+      "InternetMaxBandwidthOut": 5,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "ACTIVITY",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_rs_mc_med4_02",
+      "Memory": 4,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 50,
+      "MonthlyTraffic": 0,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 65.0,
+          "OriginalPrice": 65.0,
+          "Discount": 100,
+          "DiscountPrice": 65.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 200,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "RAZOR_SPEED_BUNDLE",
+      "BundleTypeDescription": "锐驰型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": true
+    },
+    {
+      "BundleId": "bundle_starter_mc_med4_01",
+      "Memory": 4,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 60,
+      "MonthlyTraffic": 500,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 65.0,
+          "OriginalPrice": 65.0,
+          "Discount": 100,
+          "DiscountPrice": 65.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 5,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_rs_mc_med4_01",
+      "Memory": 4,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 60,
+      "MonthlyTraffic": 0,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 72.0,
+          "OriginalPrice": 72.0,
+          "Discount": 100,
+          "DiscountPrice": 72.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 200,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "RAZOR_SPEED_BUNDLE",
+      "BundleTypeDescription": "锐驰型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": true
+    },
+    {
+      "BundleId": "bundle_starter_mc_lg4_02",
+      "Memory": 4,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 70,
+      "MonthlyTraffic": 600,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 75.0,
+          "OriginalPrice": 75.0,
+          "Discount": 100,
+          "DiscountPrice": 75.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 4,
+      "InternetMaxBandwidthOut": 6,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "ACTIVITY",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_starter_mc_med4_02",
+      "Memory": 4,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 70,
+      "MonthlyTraffic": 600,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 75.0,
+          "OriginalPrice": 75.0,
+          "Discount": 100,
+          "DiscountPrice": 75.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 6,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_starter_mc_med8_01",
+      "Memory": 8,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 80,
+      "MonthlyTraffic": 800,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 95.0,
+          "OriginalPrice": 95.0,
+          "Discount": 100,
+          "DiscountPrice": 95.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 7,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_starter_mc_med8_02",
+      "Memory": 8,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 100,
+      "MonthlyTraffic": 1000,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 110.0,
+          "OriginalPrice": 110.0,
+          "Discount": 100,
+          "DiscountPrice": 110.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 2,
+      "InternetMaxBandwidthOut": 8,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_starter_mc_lg8_01",
+      "Memory": 8,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 120,
+      "MonthlyTraffic": 1500,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 210.0,
+          "OriginalPrice": 210.0,
+          "Discount": 100,
+          "DiscountPrice": 210.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 4,
+      "InternetMaxBandwidthOut": 10,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_starter_mc_lg16_01",
+      "Memory": 16,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 180,
+      "MonthlyTraffic": 2000,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 305.0,
+          "OriginalPrice": 305.0,
+          "Discount": 100,
+          "DiscountPrice": 305.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 4,
+      "InternetMaxBandwidthOut": 12,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "STARTER_BUNDLE",
+      "BundleTypeDescription": "入门型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_gen_mc_2xlg16_01",
+      "Memory": 16,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 270,
+      "MonthlyTraffic": 3500,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 500.0,
+          "OriginalPrice": 500.0,
+          "Discount": 100,
+          "DiscountPrice": 500.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 8,
+      "InternetMaxBandwidthOut": 18,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "GENERAL_BUNDLE",
+      "BundleTypeDescription": "通用型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_gen_mc_2xlg32_01",
+      "Memory": 32,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 320,
+      "MonthlyTraffic": 4500,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 665.0,
+          "OriginalPrice": 665.0,
+          "Discount": 100,
+          "DiscountPrice": 665.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 8,
+      "InternetMaxBandwidthOut": 22,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "GENERAL_BUNDLE",
+      "BundleTypeDescription": "通用型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_gen_mc_4xlg32_01",
+      "Memory": 32,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 380,
+      "MonthlyTraffic": 6000,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 1050.0,
+          "OriginalPrice": 1050.0,
+          "Discount": 100,
+          "DiscountPrice": 1050.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 16,
+      "InternetMaxBandwidthOut": 28,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "GENERAL_BUNDLE",
+      "BundleTypeDescription": "通用型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    },
+    {
+      "BundleId": "bundle_gen_mc_4xlg64_01",
+      "Memory": 64,
+      "SystemDiskType": "CLOUD_SSD",
+      "SystemDiskSize": 450,
+      "MonthlyTraffic": 8000,
+      "SupportLinuxUnixPlatform": true,
+      "SupportWindowsPlatform": true,
+      "Price": {
+        "InstancePrice": {
+          "OriginalBundlePrice": 1380.0,
+          "OriginalPrice": 1380.0,
+          "Discount": 100,
+          "DiscountPrice": 1380.0,
+          "Currency": "CNY",
+          "DetailPrices": null
+        }
+      },
+      "CPU": 16,
+      "InternetMaxBandwidthOut": 35,
+      "InternetChargeType": "TRAFFIC_POSTPAID_BY_HOUR",
+      "BundleSalesState": "AVAILABLE",
+      "BundleType": "GENERAL_BUNDLE",
+      "BundleTypeDescription": "通用型",
+      "BundleDisplayLabel": "NORMAL",
+      "TrafficUnlimited": false
+    }
+  ],
+  "TotalCount": 42,
+  "RequestId": "d6fd94cf-20a7-44c3-bc82-8bdf5c11c3ba"
+}
